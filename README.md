@@ -15,3 +15,5 @@ Backend (web server): https://github.com/kisia0916/regic
 Desktop client : https://github.com/kisia0916/regic-beta-host
 
 public page : https://regic-instans-private.onrender.com
+
+builded desktop app : https://drive.google.com/file/d/1X7-Q_Wyhz7iXXHraX3X_vvFDIPXU1vHW/view?usp=sharing
