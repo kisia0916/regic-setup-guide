@@ -1,11 +1,4 @@
-This readme guides you to setup your regic environment.
-
-# What is regic?
-regic is remote shell application. 
-You use this application,you can access to  your PC from anywhere.
-To use this application,you don't need to open sports of your PC and don't need global IP address.
-
-# Repositories
+# 作品
 Front end: https://github.com/kisia0916/regic-front-beta
 
 Backend (API server): https://github.com/kisia0916/regic-server-main
@@ -14,6 +7,6 @@ Backend (web server): https://github.com/kisia0916/regic
 
 Desktop client : https://github.com/kisia0916/regic-beta-host
 
-public page : https://regic-instans-private.onrender.com
+公開ページ : https://regic-instans-private.onrender.com
 
-builded desktop app : https://drive.google.com/file/d/1X7-Q_Wyhz7iXXHraX3X_vvFDIPXU1vHW/view?usp=sharing
+ビルド済みデスクトップクライアント : https://drive.google.com/file/d/1X7-Q_Wyhz7iXXHraX3X_vvFDIPXU1vHW/view?usp=sharing
