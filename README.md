@@ -14,4 +14,4 @@ Backend (web server): https://github.com/kisia0916/regic
 
 Desktop client : https://github.com/kisia0916/regic-beta-host
 
-
+public page : [https://](https://regic-instans-private.onrender.com)
